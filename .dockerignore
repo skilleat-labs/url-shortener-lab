@@ -5,6 +5,4 @@ __pycache__
 .gitignore
 .env
 README.md
-Dockerfile.solution
-postgres/
 .dockerignore
